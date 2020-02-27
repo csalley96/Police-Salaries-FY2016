@@ -1,7 +1,7 @@
 # Police-Salaries-FY2016
 This database captures gross salary from July 1, 2015 through June 30, 2016 and includes only those employees who were employed on June 30, 2016.
 
-The repository contains an excel file with the original downloaded data and analyses of simple linear regression, multiple linear regression, and correlation. Not all values had a Gross Pay, so for the analysis some of Gross Pay columns have the same value as the the Annual Salary columns. 
+The repository contains excel files with the original downloaded data and analyses of simple linear regression, multiple linear regression, and correlation. Not all values had a Gross Pay, so for the analysis some of Gross Pay columns have the same value as the the Annual Salary columns. 
 
 # Description of Findings: 
 The data showed a correlation between employment time and annual salary that is not very strong, having a value of about 0.5. The strongest correlation was actually between employment time and predicted annual salary, with a correlation of 1.0 - showing a perfect positive correlation. Meaning, the relationship between these two are strong and have a great chance of reflecting what one might actually make (despite the errors) because as one increases so does the other and vice versa. 
