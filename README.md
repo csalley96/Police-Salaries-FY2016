@@ -18,8 +18,8 @@ Industry Answer - The data is able to show us multiple relationships between tim
 Data Source: https://data.baltimorecity.gov/City-Government/Police-Salaries-FY2016/evsk-6ys8
 Excel: https://github.com/csalley96/Police-Salaries-FY2016/blob/master/Mini%20Project%202%20(CJS).xlsx , https://github.com/csalley96/Police-Salaries-FY2016/blob/master/Original%20Data%20for%20Project%202%20(untouched).xlsx
 # Simple Step-by-Step
-1) Downloaded the data from the data source link above
-2) I used the "Text to Columns" Data Tool to split cells and omit ones that were not needed
+1) Downloaded the data from the data source link above as a .cvs file
+2) I uploaded the .cvs file in excel and used the "Text to Columns" Data Tool to split cells and omit ones that were not needed
 3) I calculated the employment time in years using the "TODAY()" command and dividing by 365
 4) I calculated the slope and intercept for employment time and annual salary, and also got these values when I plotted these variables
 5) I calculated the predicted annual salary using the slope and intercept found in step (4)
