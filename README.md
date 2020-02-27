@@ -16,7 +16,7 @@ Data Answer - There is data found within the Baltimore City government open sala
 Industry Answer - The data is able to show us multiple relationships between time of employment and salaries or gross pay. The data is able to show positive linear relationships and correlatioin between these variables. 
 # Website Links:
 Data Source: https://data.baltimorecity.gov/City-Government/Police-Salaries-FY2016/evsk-6ys8
-Excel: https://github.com/csalley96/Police-Salaries-FY2016/blob/master/Mini%20Project%202%20(CJS).xlsx
+Excel: https://github.com/csalley96/Police-Salaries-FY2016/blob/master/Mini%20Project%202%20(CJS).xlsx , https://github.com/csalley96/Police-Salaries-FY2016/blob/master/Original%20Data%20for%20Project%202%20(untouched).xlsx
 # Simple Step-by-Step
 1) Downloaded the data from the data source link above
 2) I used the "Text to Columns" Data Tool to split cells and omit ones that were not needed
