@@ -5,7 +5,7 @@ The repository contains an excel file with the original downloaded data and anal
 
 # Description of Findings: 
 The data showed a somewhat weak correlation between employment time and annual salary, having a value of about 0.5. The strongest correlation was actually between employment time and predicted annual salary, with a correlation of 1.0 showing a perfect positive correlation. However, given the salary errors also calculated, this may not be the best independent variable to use with the dependent variable of time. 
-![](
+![](Police-Salaries-FY2016/Annual%20Salary.PNG)
 # Outline: 
 Industry Question - Is there a strong relationship between time employed in the local government in the police department and annual salary?
 Data Question - What data is available and what tools can be used to answer this industry question?
